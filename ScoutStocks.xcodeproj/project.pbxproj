@@ -63,6 +63,7 @@
 		43F1A8C32C907ADD00DB1594 /* StockDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockDetails.swift; sourceTree = "<group>"; };
 		43F1A8C52C90867200DB1594 /* Ticker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ticker.swift; sourceTree = "<group>"; };
 		43F1A8C72C90FC4400DB1594 /* MovingAverage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovingAverage.swift; sourceTree = "<group>"; };
+		43F1A8C92C921CD900DB1594 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		43F1A87A2C8FC75900DB1594 = {
 			isa = PBXGroup;
 			children = (
+				43F1A8C92C921CD900DB1594 /* README.md */,
 				43F1A8852C8FC75900DB1594 /* ScoutStocks */,
 				43F1A8962C8FC75A00DB1594 /* ScoutStocksTests */,
 				43F1A8A02C8FC75A00DB1594 /* ScoutStocksUITests */,
